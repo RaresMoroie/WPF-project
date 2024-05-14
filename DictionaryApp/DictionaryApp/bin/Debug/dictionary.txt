@@ -1,0 +1,12 @@
+apple: fruit: A fruit with red or green skin and a crisp flesh.
+orange: fruit: A round juicy citrus fruit with a tough bright reddish-yellow rind.
+pineapple: fruit: A round citrus fruit with a tough bright reddish-yellow rind.
+kiwi:fruit:greenish fruit
+strawberry:fruit:A red, sweet and full of flavour fruit.
+cat:animal:description
+highway:roads:A main road, especially one connecting major towns or cities.
+bus:vehicle:A large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.
+road:roads:A wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use.
+dog:animal:A fluffly and protective animal.
+laptop:tech:e un laptop
+123wd:asdfv:123fsfdad

@@ -1,0 +1,5 @@
+﻿fruit: apple: A fruit with red or green skin and a crisp flesh.
+fruit: banana: A long curved fruit that grows in clusters.
+fruit: orange: A round juicy citrus fruit with a tough bright reddish-yellow rind.
+fruit: pineapple: A round citrus fruit with a tough bright reddish-yellow rind.
+animal: cat: A fluffy companion.
